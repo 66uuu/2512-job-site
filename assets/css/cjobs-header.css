@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+/*.backbg{
+	background:#fff url(cjobs_img/index/zpbackbg.png) top center no-repeat;}*/
+/*.topbg1{
+	background: url(cjobs_img/index/bghead.png) no-repeat top;}*/
+/*.topbg2{
+	background:#fff url(cjobs_img/index/zp-topbackbg2.png) top center no-repeat;}*/
+.header{
+	/*height:100px;*/
+        /*高度改了*/
+	height: 110px;
+	/*background:url(cjobs_img/index/head-hq.png) no-repeat right bottom;*/
+	/*position:relative;*/}
+	.zplogo{
+		/*position:absolute;*/
+		/*top:20px;*/
+                /*新添加*/
+		/*padding: 45px 0px 0px 0px;*/}
+	.zptoptit{
+		/*position:absolute;*/
+		position: relative!important;
+		font-family: "Microsoft Yahei";
+		top:0px!important;
+		right:0px!important;
+		color:#666;
+		padding:0!important;
+                /*新添加*/
+		/*padding: 45px 0px 0px 0px;*/
+		}
+	.zptoptit a{
+		padding-left:10px;
+		color:#666;
+                /*新添加*/
+		/*display: block;*/
+		display: inline-block;
+		line-height: 29px;}
+.nav{       
+background:#448aca;
+background: url(navbg.png)no-repeat center top;
+	width:1000px;
+	margin:0 auto;
+	height:45px;}
+	.navcon li{
+		float:left;
+		color:#fff;
+		line-height:45px;
+		font-weight: 700;
+		text-align:center;font-family: "Microsoft Yahei";
+                /*padding-left: 30px;
+                padding-right: 33px;*/
+               /*修改*/
+               padding-left: 19px;
+               padding-right: 19px;
+		}
+	.navcon li.n-active{
+		background:#0068b7;}
+	/*.one-w{
+		width:80px;}
+	.two-w{
+		width:140px;}
+	.three-w{
+		width:170px;}*/
+	.navcon li:hover{
+		background:url(navhoverbg.png);
+		cursor:pointer;}
+
+.searchbox{
+	height:112px;}
+	.searchcon{
+		width:621px;
+		height:42px;
+		background:#fff;
+		/*border:1px solid #d6001a;*/
+		border:1px solid #1384dd;
+		}
+	.searchcon li{
+		float:left;
+		height:40px;}
+	.searchcon li.one{
+		width:72px;}
+	
+	.searchcon li.two{
+		width:449px;}
+	
+	.searchcon li.three{
+		width:95px;}
+	.s-xz, .in-title{
+		border:0px;
+		height:40px;
+		line-height:40px;}
+	.model-select-box { 
+		width: 65px; 
+		height: 42px; 
+		line-height: 42px; 
+		border: 0px; 
+		float: left; 
+		margin-right: 10px; 
+		text-indent: 5px; 
+		position: relative;
+		background:#f5f5f5;
+		padding:0px 5px 0px 15px; }
+
+	.model-select-text { 
+		height: 42px;  
+		background: url(cjobs_img/index/icon-04.png) no-repeat right center; 
+		cursor: pointer; 
+		-moz-user-select: none; 
+		-webkit-user-select: none; 
+		user-select: none; }
+	.model-select-option { 
+		display: none; 
+		position: absolute; 
+		background: #fff;
+		width: 100%; 
+		left: -1px; 
+		border: 1px solid #aaa;z-index:999; }
+	.model-select-option li { 
+            width: 85px; height: 36px; margin: 0; border-bottom: 1px solid #c1c1c1; line-height: 36px; text-indent: 14px; background-color: #f9f9f9; font-size: 14px; color: black; cursor: pointer; 
+		 }
+		 
+	.model-select-option li.seleced { 
+		background: #06C; 
+		color: #fff; }
+	button{
+		float:left;
+		border:0;
+		height:42px;
+		width:95px; 
+		color:#FFF; 
+		line-height:42px;
+		text-align:center;
+		overflow:hidden;
+		/*background:#d6282d;*/
+		background:#1384dd;
+		font-size:14px;
+		}
+
+/********/
+/*.footer{
+	padding-top:10px;}
+.footer-yqlj{
+	height:40px;}
+.footer-yqlj li{
+	float:left;
+	padding-right:2px;
+	}
+.bluebg{
+	background:#125aae;
+	height:20px;
+	padding:5px 10px 10px 10px;}
+.banquan{position:relative;}.banquan p{text-align:center;line-height:24px;}.banquan span{position:absolute;top:20px;left:300px;width:80px;height:70px;}.footer-left{float:left;}.footer-select{width:320px;text-align:center;}
+*/
+
+
+

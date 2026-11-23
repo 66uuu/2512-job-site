@@ -1,0 +1,176 @@
+
+a:visited {color: gray;}
+html {
+	overflow-y:scroll;
+	text-decoration:none
+}
+body {
+	margin:0;
+	padding:0;
+	font:12px "B8BF53",sans-serif;
+	background:#fff
+}
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,blockquote,p,a {
+	padding:0;
+	margin:0
+}
+box {
+	background:#fff
+}
+table,td,tr,th {
+	font-size:12px
+}
+li {
+	list-style-type:none
+}
+img {
+	vertical-align:top;
+	border:0;
+	float:left
+}
+a {
+	text-decoration:none
+}
+a {
+	outline:none
+}
+a:active {
+	star:expression(this.onFocus=this.blur())
+}
+
+:focus {
+	outline:0
+}
+ol,ul {
+	list-style:none
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size:12px;
+	font-weight:normal
+}
+address,cite,code,th {
+	font-weight:normal;
+	font-style:normal
+}
+em {
+	font-style:normal
+}
+.fB {
+	font-weight:bold
+}
+.f12px {
+	font-size:12px
+}
+.f14px {
+	font-size:14px
+}
+.left {
+	float:left
+}
+.right {
+	float:right
+}
+.hidden {
+	display:none
+}
+.mt5 {
+	margin-top:5px
+}
+.mt10 {
+	margin-top:10px
+}
+.orange {
+	color:#ff6600
+}
+.red {
+	color:red
+}
+.green {
+	color:#09c200
+}
+.white {
+	color:#fff
+}
+.black {
+	color:#000
+}
+.c333,.c333 a {
+	color:#333
+}
+.c666,.c666 a {
+	color:#666
+}
+.c999,.c999 a {
+	color:#999
+}
+.txtCenter {
+	text-align:center
+}
+.txtRight {
+	text-align:center
+}
+.clear {
+	clear:both
+}
+.wdh100 {
+	width:100%
+}
+#container {
+	width:1000px;
+	overflow:hidden;
+	margin:0 auto
+}
+input {
+	vertical-align:middle
+}
+select:focus,input:focus,textarea:focus {
+	box-shadow:0 0 3px orange;
+	-webkit-box-shadow:0 0 3px orange;
+	-moz-box-shadow:0 0 3px orange
+}
+.copyright {
+	font-family:Arial,Helvetica,sans-serif
+}
+.m0auto {
+	margin:0 auto
+}
+.line {
+	margin:10px auto 0;
+	width:1000px;
+	overflow:hidden
+}
+.wdh1000 {
+	width:1000px
+}
+.overf {
+	overflow:hidden
+}
+.validate_flash_tip {
+	background:url(cjobs_img/error.gif) center no-repeat
+}
+.page {
+	height:50px;
+	line-height:50px;
+	float:left;
+	width:100%;
+	text-align:center
+}
+.page .uncheck {
+	border:1px solid #aaaadd;
+	padding-bottom:2px;
+	padding-top:2px;
+	padding-left:5px;
+	padding-right:5px;
+	margin:2px;
+	color:#006699
+}
+.page .current {
+	border:1px solid #456AEA;
+	padding-bottom:2px;
+	padding-top:2px;
+	padding-left:5px;
+	padding-right:5px;
+	margin:2px;
+	color:#fff;
+	background-color:#456AEA
+}

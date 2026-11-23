@@ -1,0 +1,131 @@
+.box{margin:10px auto 0;width:1000px;overflow:hidden}.b_left{width:530px;position:relative}.b_right{width:240px}.index-search{border:1px #5d96e3 solid;width:992px;background:#bbd9ff;padding:3px}.searh_con{border:1px #fff solid;background:url(../img/r/cms/www/default/gaiban/indexpng.png) no-repeat #fff left -1203px;padding:10px 10px 5px 10px}.search_form{width:730px}.keyword{}.keyword a{display:inline-block;margin:0 5px}.s_type{border-bottom:1px #d0e0f2 solid;height:31px}.s_type li{float:left;border:1px #ccc solid;border-bottom:none;border-top:1px #0082cb solid;height:30px;background:#f0f0f0;margin-right:5px;font-size:14px;text-align:center}.s_type li span{border-top:1px #f0f0f0 solid;display:block}.s_type li span a{color:#b2b2b2;padding:7px 10px 0;display:block}.s_type li.on{border:1px #d0e0f2 solid;border-bottom:none;background:#f2f8ff;height:31px}.s_type li.on span{border-top:1px #0082cb solid}.s_type li.on span a{color:#0160ad;font-weight:bold}.search_form_con{border:1px #d0e0f2 solid;border-top:none;background:#f2f8ff;padding:10px}.s_worktype{padding-left:30px}.s_keyword{width:100%}.s_worktype span,.s_keyword span{float:left;line-height:32px;display:block;height:32px}.search_input{width:231px;background:url(../images/searchBtn.gif) no-repeat 0 0;text-align:center;margin-right:25px}.s_key_l,.s_key_r,.s_key_m,.s_now,.s_adv{width:10px;background-image:url(../images/searchBtn.gif)}.s_key_l{background-position:left -80px;float:left}.s_key_m{background-position:left -40px;width:480px}.s_key_r{background-position:right -80px}.s_key{border:none;background:none;width:480px;height:30px;line-height:30px;color:#666}.s_now,.s_adv{margin-left:10px}.s_now{background-position:left -120px;width:78px}.s_adv{background-position:right -120px;width:105px}.scroll_wrap{z-index:99;width:240px}.scroll_list{position:absolute;height:15px;width:240px;padding-right:1px;top:500px;text-align:right;z-index:1;}.scroll_con{float:left}.category{margin-top:11px}.centernews{float:left;position:relative;width:208px;border-top:none;height:249px}.centernews_con{padding-top:5px;padding-left:5px}.centernews_con li{line-height:20px;color:#333;font-weight:bold}.centernews_con li a{color:#0670c0;font-weight:normal}.toolsbar a{float:left}.margin45{margin:5px 0}.centernews h1{background:url(../images/newstit.gif) repeat-x 0 -87px #fafbf5;height:36px}.newstit{background:url(../images/newstit.gif) no-repeat 0 -40px;position:absolute;top:0;left:-1px;width:210px;height:36px}.newstit span{font-size:14px;font-weight:bold;line-height:36px;color:#fff;padding-left:15px}.category a{float:left}.mar10{margin:0 10px}.centernews h1 a{position:absolute;top:0px;right:5px;float:right;line-height:36px;padding:0 5px 0 15px}.news_con{border:1px #f1f1f1 solid;border-left:none;background:#f7f7f7;width:198px;height:226px;padding:10px}.news_con h1{color:#666;line-height:20px}.news_con_con{color:#999;text-indent:24px;line-height:20px;margin-top:10px}.scroll_list a{display:inline-block;height:15px;width:15px;text-align:center;background:#fff;margin-right:5px;color:#ooo}.scroll_list a.active{color:#fff;background:red}.login,.afterlogin{width:220px;height:248px;background:url(../images/login.gif) no-repeat 0 0;padding:0 10px}.login_txt,.yzm_txt{width:195px;border:1px #a5bbe9 solid;height:18px;padding:2px;color:#999}.yzm_txt{width:68px}.donow_btn{width:70px;height:27px;display:block;background:url(../images/login.gif) no-repeat 0 -248px}.to a{float:left;display:block;height:44px;width:102px}a.toresume{background:url(../images/login.gif) no-repeat 0 -275px}.toreg{background:url(../images/login.gif) no-repeat -102px -275px}.afterlogin{background:url(../images/login.gif) no-repeat -240px 0}.wel{padding-top:50px;line-height:25px;clear:both}.afterlogin_info{margin-top:10px}.wd145{width:135px;padding-left:10px}.wd65{width:65px}.afterlogin_info li{float:left;line-height:26px;color:#0160ad}.afterlogin_info a{color:#0160ad}.wd100{width:100%}.goinfo a{display:block;width:220px;height:37px;background:url(../images/login.gif) no-repeat 0 -319px;margin-top:3px}.newjobs{width:750px}.newjobs_part{width:368px;border:1px #d4d4d4 solid;float:left}.newjobs_left{margin-right:10px;disply:inline}.newjobs_con{width:350px;margin:1px;padding:8px 8px 9px 8px}.newjobs_con h1{background:url(../images/newjobsbg.gif) no-repeat left top;height:29px;line-height:29px}.newjobs_con h1 a.right{display:block;width:40px;height:29px;line-height:32px;padding-left:18px}.newjobs_con h1 a.blu{color:#0670c0}.newjobs_con h1 span{padding-left:10px;font-size:14px;color:#fff}.more a{color:#000}.newjobs_tit{margin-top:2px;background:#f3f3f3;height:25px}.newjobs_tit li{float:left;margin:5px 0;height:15px;line-height:15px;padding-left:10px}.newjobs_tit .wd225{border-right:1px #ccc solid}.wd225{width:225px}.newjobs_content ul{border-bottom:1px #d4d4d4 dashed;overflow:hidden}.newjobs_content li{padding:2px 0 2px 10px;line-height:17.3px;float:left}.blu{color:#0670c0}.area a:hover{color:#0670c0}.newjobs_con_right{width:350px;margin:1px;padding:8px 8px 0 8px}.newjobs_con_right h1{background:url(../images/newjobsbg.gif) no-repeat left top;height:29px;line-height:29px}.newjobs_con_right h1 span{padding-left:10px;font-size:14px;color:#fff}.newjobs_con_right h1 a.right{display:block;width:40px;height:29px;line-height:32px;padding-left:18px}.newjobs_con_right h1 a.blu{color:#0670c0}.newjobs_tit .wd165{border-right:1px #ccc solid}.wd165{width:155px}.newjobs_tit .wd255{border-right:1px #ccc solid}.wd255{width:255px}.newjobs_tit .wd80{border-right:1px #ccc solid}.wd80{width:85px}.wd165,.wd225,.wd255{white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.arealong{white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.newjobs_right_content ul{overflow:hidden}.newjobs_right_content li{padding:2px 0 2px 10px;line-height:17.4px;float:left}.box_r_hot{height:266px;width:240px;margin-top:5px}.box_r_hot dt{height:30px;background:url(../images/ewm.png) no-repeat left -35px;width:240px;height:30px}.city ul{border-left:1px #d4d4d4 solid;border-right:1px #d4d4d4 solid;border-bottom:1px #d4d4d4 solid;padding-top:5px;overflow:hidden;height:220px}.city ol{margin-left:5px;border-bottom:1px #ebebeb solid;overflow:hidden;float:left;width:300px}.city ol a{border-top:1px #787878 solid;border-left:1px #787878 solid;border-right:1px #787878 solid;display:block;float:left;width:112px;height:21px;background:url(../images/ewm.png) no-repeat left -2px;text-align:center;color:#999;margin-left:0px;height:25px}.city ol a span{display:inline-block;line-height:25px;font-size:14px}.city ol a.on{border-top:1px #787878 solid;border-left:1px #787878 solid;border-right:1px #787878 solid;height:25px;background:url(../images/ewm.png) no-repeat -237px -2px #fff;position:relative;margin-bottom:-1px;color:black;font-weight:bold}.hotcity a,.hotjobs a{display:block;width:77px;text-align:center;height:18px;line-height:18px;float:left;color:#0670c0}.hotindustry a,.hotjobs a{width:105px;text-align:left;padding-left:10px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.hot{overflow:hidden}.zphbox{width:738px;border:1px #d9d9d9 solid;padding:10px 0 6px 10px}.zph_part{width:238px;float:left;margin-right:8px;height:185px}.zph_part_con{}.zph_part h1{line-height:23px;background:url(../images/newjobsbg.gif) no-repeat 0 -128px;height:23px}.zph_part h1 span{font-weight:bold;color:#0670c0;padding-left:10px}.zph_part h1 a{margin-right:10px;color:#999}.hy{padding-top:5px}.hy li{height:23px;line-height:23px;padding:0;margin:0;*height:21px;*line-height:21px}.hy .left{padding-left:10px}.hy .right{padding-right:10px}.stu{padding-top:5px}.stu li{height:23px;line-height:23px;padding:0;margin:0;*height:21px;*line-height:21px}.stu .left{padding-left:10px}.stu .right{padding-right:10px}.zh{padding-top:5px}.zh li{height:23px;line-height:23px;padding:0;margin:0;*height:21px;*line-height:21px}.zh .left{padding-left:10px}.zh .right{padding-right:10px}.date_zph{width:239px;border-left:1px #d9d9d9 solid;border-top:1px #d9d9d9 solid;height:237px;overflow:hidden;}.date_box{border-right:1px #d9d9d9 solid}.date_zph_tit{background:#efefef;border:1px #fff solid;height:34px;line-height:33px}.areaselect select{border:1px #7f9db9 solid;height:19px;background:#fff;font-size:12px;margin-top:4px;margin-left:10px}.date_zph_tit span.right{display:block;width:100px}.date_zph_tit em{margin-top:10px}.pre1{border-color:transparent #369 transparent transparent;border-style:dashed solid dashed dashed}.pre1click{border-color:transparent #F30 transparent transparent;border-style:dashed solid dashed dashed;cursor:pointer}.pre2{border-color:transparent transparent transparent #F30;border-style:dashed dashed dashed solid;cursor:pointer}.pre1,.pre2{border-width:5px;width:0;height:0;line-height:0;font-size:0;overflow:hidden}.date_zph_tit p.left{width:80px;text-align:center}.datepicker{border-top:1px #d9d9d9 solid}.datepicker dd{line-height:25px;text-align:center;border-bottom:1px #d9d9d9 solid;border-right:1px #d9d9d9 solid;display:block;float:left;width:33px;height:25px}.datepicker dd.end,.datepicker li.end{width:34px}.datepicker dd span{display:block;border:1px #fff solid;background:#eff6fb;height:23px}.datepicker li{line-height:28px;text-align:center;width:33px;height:28px;border-bottom:1px #d9d9d9 solid;border-right:1px #d9d9d9 solid;display:block;float:left}.onToday{background:#e65c36;color:#fff}.notonToday{background:#3FA2F1;color:#fff}.todaydark{background:#DDDDDD;color:#4F4F4F}.notonTodaylight{background:#8FC6F2;color:#fff}.sho{overflow:hidden;z-index:9998;display:none;position:absolute;width:221px;height:174px;background:url(../img/r/cms/www/default/gaiban/indexpng.png) no-repeat left -497px;z-index:999;filter:alpha(opacity=90);-moz-opacity:0.9;opacity:0.9;padding:5px 5px 5px 10px}.showbox_con{z-index:9999;filter:alpha(opacity=100);-moz-opacity:1;opacity:1;height:180px;width:221px;position:relative};.showbox_con{padding-top:5px}.showbox_con li{line-height:17px;padding:3px 0 0 10px;border-top:1px #fff solid;border-bottom:1px #d9d9d9 dashed;height:34px;width:190px}.showbox_con li p{height:17px}.showbox_con li p span{display:block;float:left}.showbox_con li .area{width:50px}.closecb33{position:absolute;left:205px;top:-10px;height:20px;width:15px;cursor:pointer;z-index:999999}.loadingnow{background:url(../images/loading.gif) no-repeat;width:60px;height:60px;margin:50px 0 0 80px}.box_con{width:750px;overflow:hidden}.imgpart{width:746px;border:1px #d4d4d4 solid;padding:0 1px}.imgpart_con{padding:13px 10px 0 10px;width:726px}.imgpart_con h1{height:29px;background:url(../images/newjobsbg.gif) repeat-x 0 -160px;border-right:1px #d4d4d4 solid}.imgpart_con h1 a.tit{height:29px;background:url(../images/newjobsbg.gif) repeat-x 0 -200px;display:block;line-height:29px;padding-left:10px;color:#fff}.imgpart_con h1 a.tit span{display:block;background:url(../images/newjobsbg.gif) repeat-x right -200px;padding-right:10px;height:29px;font-size:14px}.imgpart_con h1 a.right{display:block;width:110px;height:29px;line-height:29px;background:url(../images/newjobsbg.gif) no-repeat -335px -63px;padding-left:18px}.imgpart_list{height:80px;width:720px}.imgpart_list li{float:left;text-align:center}.imgpart_list li div{width:140px}.imgpart_list li p{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;width:140px}.imgpart_list img{background:url(../images/indexbg.png) no-repeat 2px -370px;padding:5px;margin:0 2px;display:inline}.imgpart_con_a{padding:13px 10px 0 10px;width:726px}.imgpart_con_a h1{height:29px;background:url(../images/newjobsbg.gif) repeat-x 0 -160px;border-right:1px #d4d4d4 solid}.imgpart_con_a h1 a.tit{height:29px;background:url(../images/newjobsbg.gif) repeat-x 0 -200px;display:block;line-height:29px;padding-left:15px;color:#fff}.imgpart_con_a h1 a.tit span{display:block;background:url(../images/newjobsbg.gif) repeat-x right -200px;padding-right:15px;height:29px}.imgpart_con_a h1 a.right{display:block;width:110px;height:29px;line-height:29px;background:url(../images/newjobsbg.gif) no-repeat -335px -63px;padding-left:18px}.imgpart_list_a{height:88px;width:720px}.imgpart_list_a li{float:left;text-align:center;padding-top:10px;margin-right:10px}.textpart_list{width:720px;height:184px}.textpart_list li{float:left;width:240px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.textpart_list .orange a{color:#ff6600;height:19px;line-height:19px}.textpart_list .c999{padding-left:10px;height:16px;line-height:16px}.imgpart_con_yrdw{padding:13px 10px 0 10px;width:346px}.imgpart_con_yrdw h1{height:29px;background:url(../images/newjobsbg.gif) repeat-x 0 -160px;border-right:1px #d4d4d4 solid}.imgpart_con_yrdw h1 a.tit{height:29px;background:url(../images/newjobsbg.gif) repeat-x 0 -200px;display:block;line-height:29px;padding-left:10px;color:#fff}.imgpart_con_yrdw h1 a.tit span{display:block;background:url(../images/newjobsbg.gif) repeat-x right -200px;padding-right:10px;height:29px;font-size:14px}.imgpart_con_yrdw h1 a.right{display:block;width:30px;height:29px;line-height:29px;background:url(../images/newjobsbg.gif) no-repeat -335px -63px;padding-left:18px}.textpart_list_yrdw{height:80px;width:720px}.textpart_list_yrdw li div{width:140px}.textpart_list_yrdw li p{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;width:140px}.textpart_list_yrdw img{background:url(../images/indexbg.png) no-repeat 2px -370px;padding:5px;margin:0 2px;display:inline}.imgpart_con_yrdw_a{padding:13px 10px 0 10px;width:726px}.imgpart_con_yrdw_a h1{height:29px;background:url(../images/newjobsbg.gif) repeat-x 0 -160px;border-right:1px #d4d4d4 solid}.imgpart_con_yrdw_a h1 a.tit{height:29px;background:url(../images/newjobsbg.gif) repeat-x 0 -200px;display:block;line-height:29px;padding-left:15px;color:#fff}.imgpart_con_yrdw_a h1 a.tit span{display:block;background:url(../images/newjobsbg.gif) repeat-x right -200px;padding-right:15px;height:29px}.imgpart_con_yrdw_a h1 a.right{display:block;width:110px;height:29px;line-height:29px;background:url(../images/newjobsbg.gif) no-repeat -335px -63px;padding-left:18px}.textpart_list_yrdw_a{height:88px;width:720px}.textpart_list_yrdw_a li{float:left;text-align:center;padding-top:10px;margin-right:10px}.textpart_list_yrdw{width:350px;height:414px}.textpart_list_yrdw li{float:left;width:270px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.textpart_list_yrdw .orange a{color:#ff6600;height:19px;line-height:19px}.textpart_list_yrdw .c999{padding-left:10px;height:17px;line-height:17px}.lh24{line-height:24px;display:block;width:50px;float:left}.login,.afterlogin{width:220px;height:248px;background:url(../images/login.gif) no-repeat 0 0;padding:0 10px}.login_txt,.yzm_txt{width:140px;border:1px #a5bbe9 solid;height:18px;padding:2px;color:#999;float:left}.yzm_txt{width:50px;float:left}.rmtjhotcity{display:block;padding-left:15px;width:60px;height:20px;line-height:20px;float:left;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;color:#0670c0}.overflowspan{width:140px;display:block;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.overflowspanarea{width:40px;display:block;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.homeLinkList{float:left;display:inline;padding:1px}.homeLinkList_other{float:left;display:inline;padding:5px;padding-right:0px}.top_tj{position:absolute;float:left;color:#fff;margin-top:46px;margin-left:18px;padding-right:40px;width:173px}.top_tj p{line-height:21px;padding-left:20px}.top_tj span{color:#fff600;font-weight:bold}.ewm_sp{width:240px;text-align:center}.ewm_sp a{text-decoration:none;font-size:11pt;color:#FA7000;font-weight:bold}
+/* ===== 复刻补丁: 对齐原站行为 ===== */
+.zixun .showDiv{ display:none; }
+.zixun .showDiv[style*="display:block"]{ display:block !important; }
+.zixun > div:target{ display:block; }
+.zixun .con-libox{ padding-top:6px; }
+.zixun .con-libox li{ line-height:29px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; list-style:square; list-style-position:inside; }
+.zixun .con-libox a{ color:#333; }
+.zixun .con-libox a:hover{ color:#0068b7; text-decoration:underline; }
+.zixun .tab-title{ margin-bottom:2px; }
+.footframe-holder{ width:100%; background:#f5f5f5; border-top:1px solid #e5e5e5; }
+.footframe{ width:100%; height:170px; display:block; }
+.newsbox2 .news_list li{ line-height:26px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.newsbox2 .news_list a{ color:#d91c1c; }
+.newsbox2 .news_list span{ color:#f39c11; }
+.zplogo img{ height:66px; }
+.jisuanqi img{ max-width:250px; }
+
+/* ===== 复刻补丁 2: 修正热点资讯板块布局 ===== */
+.line3-left{ width:747px; }
+.line3-left .zixun{ float:none; width:445px; height:260px; padding:15px 20px; background-color:#ffffff; }
+.line3-left .nav-title{ margin-bottom:6px; }
+.zixun .tab-title{ display:block; height:36px; border:1px solid #dbdee1; background-color:#f6f6f6; }
+.zixun .tab-title a{ display:inline-block; width:90px; height:36px; line-height:36px; text-align:center; }
+.zixun .tab-title a.tab-active{ display:inline-block; width:90px; height:33px!important; line-height:30px!important; text-align:center; border-top:3px solid #1384dd; background-color:#ffffff; border-left:1px solid #dbdee1; border-right:1px solid #dbdee1; border-bottom:1px solid #ffffff; }
+.zixun .tab-title a.floatright{ float:right; width:auto; padding-right:8px; border:none; background:transparent; }
+.zixun .con-libox li{ line-height:26px; }
+.rili{ width:239px; }
+.rili .date_box{ border-right:1px solid #d9d9d9 solid; }
+.rili .date_zph_tit{ display:block; width:100%; height:34px; line-height:33px; background:#efefef; border:1px solid #fff solid; }
+.rili select{ width:100%; height:26px; margin-top:3px; }
+
+/* ===== 复刻补丁 3: 招聘会日历同行对齐 ===== */
+.line3 .line3-left{ float:left; width:747px; }
+.line3 .rili{ float:right; width:239px; height:280px; }
+.rili .nav-title{ border-bottom:2px solid #dcdcdc; height:35px; line-height:35px; width:100%; position:relative; }
+.rili .nav-title b{ display:inline-block; line-height:35px; border-bottom:2px solid #125aae; }
+.rili .date_box{ border-right:1px solid #d9d9d9 solid; border-bottom:1px solid #d9d9d9 solid; }
+.rili .date_zph_tit{ display:block; width:100%; height:34px; line-height:33px; background:#efefef; border:1px solid #fff solid; text-align:center; }
+.rili select{ width:220px; height:24px; margin:4px 8px; }
+.rili .datepicker{ border-top:1px solid #d9d9d9 solid; padding-top:4px; }
+.rili .datepicker li{ float:left; width:33px; height:28px; line-height:28px; text-align:center; border-bottom:1px solid #d9d9d9 solid; border-right:1px solid #d9d9d9 solid; }
+.rili .datepicker .wk{ color:#666; }
+.newsbox2 .news_list{ padding:4px 0; }
+.newsbox2 .news_list li{ line-height:25px; overflow:hidden; }
+.newsbox2 .news_list b{ margin-right:4px; }
+
+/* ===== 复刻补丁 4: line3 同行布局 ===== */
+.main-w.line3{ height:auto; min-height:290px; overflow:hidden; }
+.main-w.line3 > .rili{ float:right; width:239px; height:280px; }
+.main-w.line3 > .line3-left{ float:left; width:747px; }
+.main-w.line3 .line3-left .zixun{ float:none; }
+
+/* ===== 复刻补丁 5: flex 行布局 ===== */
+.row-flex{ display:flex; align-items:flex-start; gap:0; }
+.row-flex .rf-cell{ float:none; }
+.row-flex.row1 .rf-cell:nth-child(1){ margin-right:18px; }
+.row-flex.row1 .rf-cell:nth-child(2){ margin-right:19px; }
+.row-flex .newsbox{ min-height:230px; max-height:none; }
+.row-flex.row1 .newsbox1{ height:242px; overflow:hidden; }
+.row-flex.row1 .newsbox2{ height:242px; overflow:hidden; }
+.row-flex.row3 .zixun{ float:none; width:445px; height:260px; padding:15px 20px; background:#fff; }
+.row-flex.row3 .rili{ float:none; width:239px; height:280px; }
+.row-flex.row2 .newsbox1{ min-height:230px; }
+.row-flex .rimain-box{ height:auto; }
+.row-flex.row1 .rimain-box.ditu{ height:280px; overflow:hidden; }
+.row-flex.row2 .rimain-box{ height:280px; overflow:hidden; }
+.rili .datepicker li{ float:left; width:33px; height:28px; line-height:28px; text-align:center; border-bottom:1px solid #d9d9d9 solid; border-right:1px solid #d9d9d9 solid; }
+.rili .datepicker li.wk{ color:#666; }
+.rili .datepicker li.onToday{ background:#e65c36; color:#fff; }
+.zixun .tab-title{ display:block; height:36px; border:1px solid #dbdee1; background:#f6f6f6; }
+.zixun .tab-title a{ display:inline-block; width:90px; height:36px; line-height:36px; text-align:center; }
+.zixun .tab-title a.tab-active{ height:33px!important; line-height:30px!important; border-top:3px solid #1384dd; background:#fff; border-left:1px solid #dbdee1; border-right:1px solid #dbdee1; border-bottom:1px solid #fff; }
+.zixun .tab-title a.floatright{ float:right; width:auto; border:none; background:transparent; padding-right:10px; }
+.zixun .showDiv{ display:none; }
+.zixun .showDiv[style*="display:block"]{ display:block !important; }
+.zixun .con-libox{ padding-top:4px; }
+.zixun .con-libox li{ line-height:26px; list-style:square; list-style-position:inside; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+
+/* ===== 复刻补丁 6: 细节修正 ===== */
+.row-flex .nav-title{ position:relative; }
+.row-flex .nav-title .more{ position:absolute; right:5px; top:0; line-height:35px; }
+.row-flex .nav-title b{ display:inline-block; line-height:35px; border-bottom:2px solid #125aae; }
+.row-flex.row2 .newsbox1{ padding:5px 10px; }
+.inst-list li{ line-height:26px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.inst-list a{ color:#333; }
+.inst-list a:hover{ color:#0068b7; }
+.newsbox2 .news_list li{ line-height:24px; }
+.newsbox2 .news_list a{ color:#d91c1c; font-weight:700; }
+.newsbox2 .news_list span{ color:#f39c11; font-weight:700; }
+.row-flex.row2 .rimain-box .rititle{ position:relative; }
+.rimain-box .rititle{ line-height:35px; border-bottom:2px solid #dcdcdc; }
+.rimain-box .rititle span img{ vertical-align:middle; }
+
+/* ===== 复刻补丁 7: 专题推荐框 ===== */
+.row-flex.row2 .newsbox1{ position:relative; }
+.row-flex.row2 .newsbox1 .nav-title{ z-index:2; }
+.topic-box{ position:relative; padding-top:0; }
+.topic-box .rititle{ position:relative; z-index:2; background:#fff; }
+.row-flex.row2 .newsbox1 .more{ z-index:3; }
+
+/* ===== 复刻补丁 8: 彻底隔离"更多"链接 ===== */
+.row-flex{ position:relative; }
+.row-flex .rf-cell{ position:relative; overflow:visible; }
+.row-flex .newsbox{ position:relative; overflow:hidden; }
+.row-flex .newsbox .nav-title{ position:relative; overflow:hidden; z-index:1; }
+.row-flex .newsbox .nav-title .more{ z-index:2; }
+.row-flex.row2 .rf-cell:nth-child(2) .rimain-box{ position:relative; z-index:0; }
+.row-flex.row2 .rf-cell:nth-child(1) .newsbox{ z-index:1; }
+.topic-box .rititle{ background:#fff; position:relative; z-index:1; }
+
+/* ===== 复刻补丁 9: "更多"内联化, 彻底消除越界 ===== */
+.row-flex .nav-title .more-inline{ float:right; line-height:35px; }
+.row-flex .nav-title .more-inline a{ color:#666; }
+.row-flex .nav-title .more-inline a:hover{ color:#0068b7; }
+.row-flex .nav-title .more{ display:none; }
+
+/* ===== 站点品牌 Logo (站名改为 2512公共招聘网) =====
+   原站 zplogo.png 为整图, 内含旧站名文字, 无法用文本替换;
+   故裁切图片仅保留左侧红色图标, 站名改用真实文字渲染 */
+.zplogo .brand-logo{ display:inline-flex; align-items:center; text-decoration:none; }
+.zplogo .brand-icon{
+    display:inline-block; width:60px; height:52px; flex:none;
+    background:url(../img/r/cms/www/default/images/index/zplogo.png) no-repeat left top;
+}
+.zplogo .brand-text{ display:inline-flex; flex-direction:column; justify-content:center; margin-left:6px; }
+.zplogo .brand-text b{
+    font-size:30px; line-height:1.15; font-weight:700; color:#0b5fa5;
+    font-family:"Microsoft YaHei","PingFang SC",sans-serif; white-space:nowrap;
+}
+.zplogo .brand-text small{ font-size:12px; color:#888; line-height:1.4; }

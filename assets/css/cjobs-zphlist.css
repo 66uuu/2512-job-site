@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+.online {height: 25px;
+    padding-top: 10px;}
+.online p {color:#666666;}
+.online p  a{color:#666666;padding:0 5px}
+
+.top_tab1 {background:url(cjobs_img_zph/zph_tab1.jpg)  no-repeat 0 0; height:36px;}
+.top_tab1 p{width:258px;height: 29px; text-align: center; color:black;font-size: 14px; float: left;padding-top: 7px;font-weight: bolder;cursor: pointer;}
+
+.top_tab2 {background:url(cjobs_img_zph/zph_tab2.jpg)  no-repeat 0 0; height:36px;}
+.top_tab2 p{width:258px;height: 29px; text-align: center; color:black;font-size: 14px; float: left;padding-top: 7px;font-weight: bolder;cursor: pointer;}
+
+.top_tab3 {background:url(cjobs_img_zph/zph_tab3.jpg)  no-repeat 0 0; height:36px;}
+.top_tab3 p{width:258px;height: 29px; text-align: center; color:black;font-size: 14px; float: left;padding-top: 7px;font-weight: bolder;cursor: pointer;}
+
+.search {background:url(cjobs_img_zph/zph_searchbg.png) no-repeat 0 0 ;height:177px;}
+.search_right {overflow:hidden;padding:8px 10px; background:#fafafa;margin-left:19px;border:1px #ccc solid;   width:938px;float:left;display:inline; }
+
+.search_ad {height:25px;line-height:25px;padding-left:20px;background:url(cjobs_img_zph/zph_sbg.gif) no-repeat left 5px;margin:15px 0 0 310px;}
+.search_list {margin-top:25px;}
+
+.search_con { margin-left:25px 0 0 20px;}
+
+.search_form {height:32px;padding:15px 10px 10px 10px;float:left;}
+.search_form div {height:32px;float:left;}
+.search_form div input {border:none; line-height:22px;padding:5px;height:22px;}
+.search_text { width:425px;margin-left:10px;display:inline;}
+.search_text input {background:url(cjobs_img_zph/zph_csbg.gif) no-repeat left 0; width:415px; }
+.search_select  { width:229px;margin-right:5px;display:inline;}
+.search_select input { background:url(cjobs_img_zph/zph_csbg.gif) no-repeat left -34px;width:229px; _width:220px;text-align:center;}
+
+.search_time  {margin-right:5px;display:inline;width:209px;}
+.search_time input { background:url(cjobs_img_zph/zph_csbg.gif) no-repeat left -68px;width:209px;_width:200px; text-align:center;}
+
+.search_btn { width:85px;}
+.search_btn a {background:url(cjobs_img_zph/zph_csbg.gif) no-repeat 0 -103px; width:85px;display:block;height:32px;}
+.search_type {padding:7px;overflow:hidden;height:60px; background:#fefdfe;}
+.search_type span {padding-top:5px;}
+.search_type li {height:30px;float:left;width:230px;padding:0;margin-right:5px;display:inline;}
+.type_input select {width:160px;}
+.search_right dt{padding-left:0px;float:left;line-height:24px;height:24px;}
+.search_right dd {float:left;line-height:24px;heihgt:24px;padding:0 5px; white-space:nowrap;}
+
+.search_bar { background:url(cjobs_img_zph/zph_bar.jpg) no-repeat 0 0;height:33px;line-height:33px; }
+
+.search_bar span{margin-left:30px;display:inline; }
+.search_bar a.right {margin-right:15px;display:inline;background:url(cjobs_img_zph/zph_csbg.gif) left -145px;padding-left:20px;height:33px; width:90px}
+
+.tit { height:31px;background:url(cjobs_img_zph/zph_jobs_tit.jpg)}
+.tit li{float:left;padding-left:10px;line-height:31px;}
+.list_list dd {height:34px;}
+.list_list li {float:left;height:34px;line-height:34px;padding-left:10px;}
+.list_list li .cons {margin-top:8px;}
+.wd530{width:523px;}
+.wd220{width:215px;}
+.even { background:url(cjobs_img_zph/zph_ddbg.jpg)  repeat-x 0 0 ;}
+.odd {background:url(cjobs_img_zph/zph_ddbg.jpg)  repeat-x 0 -34px ;}
+
+.c999,.c999 a {color:#999999;}
+/* .blu,.blu a {color:#0000ff;} */
+.blck{color:#000000;}
+
+
+.page {height:50px;line-height:50px; float:left;width:100%; text-align:center;}

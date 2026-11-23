@@ -1,0 +1,396 @@
+@charset "utf-8";
+/* CSS Document */
+.main-w{
+	width:1000px;
+	margin:0px auto;}
+a:visited {color: gray}
+a:link {color: #333}
+
+.hot-city{
+		line-height:25px;}
+	.hot-city a{
+		color:#333;
+		
+		display:inline-block;}
+	.hot-city span a{
+		padding-right:0px;}
+	.hot-city a:hover, .hot-city span a:hover{
+		text-decoration:underline;
+		color:#0068b7;}
+	.s-zjfw{
+		line-height:5px;}
+	.s-zjfw a{
+		color:#0068b7;
+		padding-right:10px;
+		display:inline-block;}
+		
+	.newsbox{
+		width:300px;
+		min-height:230px;
+		max-height:280px;
+		padding:5px 10px;
+		border:1px solid #eaf4fb;
+		}
+	.nav-title{
+		border-bottom:2px solid #dcdcdc;
+		height:35px;
+		line-height:35px;
+		width:100%;
+		position:relative;
+		}
+	.nav-title b{
+		display:inline-block;
+		line-height:35px;
+		border-bottom:2px solid #125aae;}
+	.nav-title a img{
+		padding-left:4px;}
+	.tab-con{}
+	.tab-con tr th{
+		background:#f5f5f5;
+		font-weight:normal;
+		color:#666;}
+	.tab-con tr th, .tab-con tr td{
+		height:30px;
+		line-height:30px;
+		text-indent:5px;
+		text-align:left;
+               text-overflow: ellipsis;  
+   	       -moz-text-overflow: ellipsis;
+    	      white-space: nowrap;
+   	       overflow: hidden;
+}
+	.more{
+		position:absolute;
+		right:5px;}
+.right-shuju{
+	
+	width:288px;
+	height:92px;
+	padding: 20px;
+	/*border:1px dotted #74acd4;*/
+	color:#000;
+	background-color: #FFFFFF;
+	}
+	.shujucon{
+		position:absolute;
+		z-index:100;
+		width:240px;
+		height:90px;
+		padding:5px;}
+	.shujucon h2{
+		line-height:20px;}
+	.shujucon h2 span{
+		vertical-align:middle;
+		padding-right:5px;}
+	.filterbox{
+		width:250px;
+		height:100px;
+		position:absolute;
+		z-index:0;
+		background:#FFF;
+		filter:alpha(opacity=50); /*IE滤镜，透明度50%*/
+		-moz-opacity:0.5; /*Firefox私有，透明度50%*/
+		opacity:0.5;/*其他，透明度50%*/}
+	.shuju-list{
+		/*width:200px;*/
+		height: 96px;
+		padding-top: 10px;
+		}
+	.shuju-list li{
+		display: inline-block;
+		float: left!important;
+		width: 96px;
+		line-height:22px;
+		/*text-indent:8px;*/
+		text-align: center;
+		background:url(../img/r/cms/www/default/gaiban/icon-02.png) no-repeat left center;
+		color:#5a5a5a;
+		}
+		.shuju-list > li > span{
+			display: block;
+		}
+.lebox{
+	width:740px;
+	min-height:600px;
+	position:relative;}
+	.carbox{
+	background:#f5f5f5;
+	height:230px;}
+	.lepic{
+		border:1px solid #eaf4fb;
+		width:738px;
+		height:66px;
+		margin-top:10px;}
+	.lepic li{
+		float:left;
+		border-right:0px solid #eaf4fb;
+		}
+.ribox{
+	width:250px;
+	min-height:600px;}
+	.rimain-box{
+		border:1px solid #eaf4fb;
+		min-height:238px;
+		background:#f9fcfe;
+		padding:4px;}
+	.ri-ban p{
+		padding-bottom:10px;
+		}
+	.rititle{
+		width:230px;
+		height:35px;
+		line-height:35px;
+		border-bottom:2px solid #d2d2d2;}
+	.rititle span{
+		display:inline-block;
+		height:35px;
+		line-height:35px;
+		border-bottom:2px solid #06347a;}
+	.ricon{
+		text-align:center;
+		padding:10px 0px;}
+
+/****************************/
+.now-pos{
+	border-bottom:1px solid #dff1ff;
+	line-height:30px;}	
+.con-box{
+	width:1000px;
+	border-bottom:1px solid #dff1ff;}
+	.con-box .conw{
+		float:left;
+		width:484px;
+		height:282px;
+		border-right:1px solid #dff1ff;}
+	
+	.con-title{
+		width:480px;
+		height:45px;
+		position:relative;
+		top:10px;}
+	.con-title span{
+		display:inline-block;
+		position:absolute;
+		right:10px;
+		top:10px;
+		width:100px;
+		}
+	.con-title span img{
+		padding-left:4px;}
+	.con-title em{
+		padding-right:10px;}
+	.con-hottitle{
+		height:90px;}
+	.con-hotpic{
+		width:90px;
+		height:80px;
+		background:#ccc;}
+	.con-hotpic img{
+		width:90px;
+		height:80px;}
+	.conhotxx{
+		width:370px;
+		padding-left:10px;}
+	.conhotxx h2{
+		padding-bottom:10px;}
+	.con-libox{
+		}
+	.con-libox li{
+		float:left;
+		width:440px;
+		background:url(../img/r/cms/www/default/gaiban/icon-07.png) no-repeat left 8px center;
+		text-indent:20px;
+		font-size:12px;
+		line-height:36px;
+                border-bottom: 1px #d9d9d9 dashed;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+		}
+	.marleft{
+		margin-left:20px;
+		}
+	.border0{
+		border:none!important;}
+	
+/********************************/
+.zp-hotrightlist li{
+	color:#05347c;
+	line-height:28px;
+	background:url(../img/r/cms/www/default/gaiban/icon-02.png) no-repeat left center;
+	text-indent:10px;}
+.zp-tuijiangangwei{
+	background:#fff;
+	}
+	.zp-lineheight30{
+		line-height:30px;}
+.zp-borderbottom tr td{
+	border-bottom:1px solid #eaeaea;
+	padding:6px 0px;}
+.zp-borderbottom tr td p{
+	line-height:20px;}
+	.zpadddb{
+		border-radius:4px;
+		border:1px solid #d6d6d6;
+		background:#f3f6ff;
+		padding:4px 6px;
+		color:#0168b5;}
+	
+	.zp-hotlistcon{
+		width:740px;
+		width:100%; height:auto !important;height:1%; zoom:1;
+		}
+	.zp-topspace{
+		margin-top:10px;
+		margin-left:5px;
+		zoom:1;}
+	
+
+/***********************/
+.zp-postion{
+	height:30px;
+	line-height:30px;
+	color:#666;
+	width:740px;}
+.zp-listbottom{
+	border-bottom:2px solid #e5e5e5;}
+	.zp-bluebottom{
+		border-bottom:2px solid #053478;}
+	.zp-listnavbox{
+		background:#f5f5f5;
+		height:30px;
+		line-height:30px;}
+	.zp-listnavbox a{
+		display:inline-block;
+		float:left;
+		padding:0px 20px 0px 10px;
+		color:#0671c3;}
+	.zp-newsmain{
+		width:720px;
+		padding:10px 14px 10px 5px;
+		min-height:600px;}
+	.zp-newsmain li{
+		background:url(../img/r/cms/www/default/gaiban/icon-30.png) no-repeat left center;
+		text-indent:24px;
+		padding:10px 0px;
+		color:#3b639f;
+		border-bottom:1px dotted #e5e5e5;}
+	.blue-light{
+		color:#0b3b8d;}
+/*********page begin**************/
+
+.zpquotes {
+	margin-top:50px; 
+	TEXT-ALIGN: center;
+	padding:3px;
+}
+.zpquotes A {
+	border:1px solid #ddd;
+	padding:2px 5px; 
+	COLOR: #aaa; 
+	margin:2px;
+	TEXT-DECORATION: none
+}
+.zpquotes A:hover, .quotes A:active {
+	border:#014fad 1px solid;
+}
+
+.zpquotes SPAN.zpcurrent {
+	border:#e0e0e0 1px solid; 
+	padding:2px 5px;
+    BACKGROUND-COLOR: #f6fbfe;
+	margin:2px;
+}
+.zpquotes SPAN.zpdisabled {
+	border:#f3f3f3 1px solid;
+	COLOR: #ccc; 
+	margin: 2px;
+}
+/********page end************/
+
+.fl{float:left}
+.fr{float:right}
+
+.mfw_main{
+	width:720px;
+	/*height:234px;*/
+	height: 382px;
+	margin:0 auto;
+	padding:0;}
+.mfw_main .content{
+	width:720px;
+	float:right;
+	padding-top:0px}
+.mfw_main .slide{
+	border-radius:5px;
+	height:362px;
+	overflow:hidden}
+.mfw_main .slide .play{
+	float:left;
+	height:234px;
+	width:612px;
+	overflow:hidden;
+	position:relative}
+.mfw_main .slide .play ul{
+	position:absolute;
+	top:0;
+	width:3000px}
+.mfw_main .slide .play li{
+	float:left;
+	height:234px;
+	width:612px;
+	overflow:hidden}
+.mfw_main .slide .play li img{
+	-moz-border-radius-topleft:5px;
+	-moz-border-radius-bottomleft:5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-bottom-left-radius:5px}
+.mfw_main .slide .tab{
+	float:right;
+	width:125px;
+	height:234px;
+	overflow:hidden;
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-bottom-right-radius:5px}
+.mfw_main .slide .tab li{
+	width:108px;
+	height:54px;
+	margin-bottom:5px;
+	padding-left:17px;
+	overflow:hidden;font-size:0;
+	*vertical-align:top}
+.mfw_main .slide .tab li.on{
+	/* 原站 slide_arr.gif 已下线, 下方用 CSS 箭头替代 */
+	background-image:none}
+.mfw_main .slide .tab li.on:after{
+	content:"";position:absolute;left:4px;top:50%;margin-top:-4px;
+	width:0;height:0;border-top:4px solid transparent;border-bottom:4px solid transparent;border-left:6px solid #e65c36}
+.mfw_main .slide .tab li{position:relative}
+.mfw_main .focus .info{
+	color:#666;
+	height:35px;l
+	ine-height:35px;
+	font-size:14px;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+	overflow:hidden}
+.mfw_main .focus .info a{
+	color:#e58a00;
+	font-size:14px}
+	
+/****************************/
+.zp-topcity{
+	position:absolute;
+	left:300px;
+	top:24px;
+	width:300px;
+	height:60px;}
+
+.l-po{
+  position:relative;
+}
+
+.sp-po{
+  position:absolute;
+  right:0px;
+  top:12px;}

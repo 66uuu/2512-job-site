@@ -1,0 +1,43 @@
+.bannerbg { background:url() repeat-x left -300px;overflow:hidden;}
+.banner {height:156px; background:url(cjobs_img/banner.jpg) no-repeat center 0;}
+.logo {float:left;width:360px;height:85px;display:block;}
+.topbar {float:right;width:320px;height:30px;line-height:30px;color:#fff;}
+.topbar a {display:inline-block;padding:0 5px;color:#fff;}
+.topbar_zpy {float:right;width:180px;height:90px;line-height:25px;color:#fff;padding-top: 25px}
+.topbar_zpy a {display:inline-block;padding:0 5px;color:#fff;margin-left:50px;font-size: 13px;}
+.datelist {float:left;color:#fff;margin-top:10px;margin-left: 150px;padding-right:40px;width: 173px}
+.datelist p {line-height:21px;padding-left:20px;}
+.datelist span {color:#fff600;font-weight:bold;}
+.naver {height:40px;background:url(cjobs_img/newjobsbg.gif) repeat-x left -561px;}
+.nav {height:40px;}
+.nav li {float:left;display:inline;}
+.nav li a {color:#fff;} 
+/* .nav li a {color:#fff;font-weight:bold;font-size:14px;height:27px;padding-top:13px;display:block;float:left;text-align: center;padding-right: 24px;padding-left: 24px;}*/
+.nav li.on {float:left;display:inline;background:url(cjobs_img/newjobsbg.gif) repeat-x left -516px;}
+/*.nav li.on a {color:#fff;font-weight:bold;font-size:14px;height:27px;padding-top:13px;display:block;float:left;text-align: center;padding-right: 24px;padding-left:24px;}*/
+.nav li.on a {color:#fff;font-weight:bold;font-size:14px;height:27px;padding-top:13px;display:block;float:left;text-align: center;padding-right: 35px;padding-left:35px;} 
+.nav .right {height:40px;line-height:40px;background:url(cjobs_img/indexbg.png) no-repeat -230px -53px;padding-left:23px;font-weight:bold;font-size:14px;color:#ffff00;margin-left:60px;}
+.navers { background:url(cjobs_img/indexbg.png) repeat-x left -187px; height:29px;}
+.navfen,.navfen a{height:29px;line-height:29px;color:#333;}
+.navfen .orange {color:#ff6600; }
+.gg{height:31px; background:url(cjobs_img/areabg.png) repeat-x 0 -2px;}
+.gg_con {width:950px;margin:0 auto;line-height:31px;padding-left:50px;}
+.gg_con li {float:left;margin-right:10px;font-family: "Microsoft YaHei";}
+
+.links {background:url(cjobs_img/newjobsbg.gif) repeat-x  0 -483px;height:25px;padding-top:4px;margin:5px auto; width:1000px;}
+.links p {padding-left:200px;}
+.links p .tz{margin:0 5px;}
+.footer li { line-height:20px;height:20px;}
+.footer li a{padding:0 5px;}
+
+.new {position:relative;}
+.newimg {position:absolute;top:0;right:-15px;background:url(cjobs_img/new.gif) no-repeat;width:15px;height:17px;}
+
+/* 鏃ュ巻鐗�*/
+.tag_select{display:block;color:#000;width:126px;height:23px;padding-left:10px;line-height:23px;margin-top:4px; color:#7D7D7D; font-size:12px; cursor:pointer}
+.tag_select_hover{ color:#0670c0; background:transparent url(cjobs_img/indexpng.png") no-repeat left -707px; }
+.tag_select_open{ color:#0670c0; background:transparent url(cjobs_img/indexpng.png") no-repeat left -707px; }
+ul.tag_options{position:absolute;margin:0;list-style:none;background:#F4F8FF;padding:0 0 1px;margin:0;width:262px ; height:220px; overflow:hidden; overflow-y:auto; font-size:12px; margin-left:10px; cursor:pointer; z-index:1000 }
+ul.tag_options li{background:#F4F8FF; float:left;display:block;width:65px;padding:0 10px;height:20px;text-decoration:none;line-height:20px;color:#000; font-weight:normal; font-size:12px}
+ul.tag_options li.open_hover{color:#000; font-weight:normal; font-size:13px}
+ul.tag_options li.open_selected{background:#F4F8FF; font-size:12px;font-weight:bold; }

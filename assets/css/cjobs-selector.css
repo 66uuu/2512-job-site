@@ -1,0 +1,529 @@
+html {
+	overflow-y: scroll;
+	text-decoration: none
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font: 12px"B8BF53", sans-serif
+}
+
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,blockquote,p,a
+	{
+	padding: 0;
+	margin: 0
+}
+
+table,td,tr,th {
+	font-size: 12px
+}
+
+li {
+	list-style-type: none
+}
+
+img {
+	vertical-align: top;
+	border: 0;
+	float: left
+}
+
+a {
+	text-decoration: none
+}
+
+ol,ul {
+	list-style: none
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-size: 12px;
+	font-weight: normal
+}
+
+address,cite,code,em,th {
+	font-weight: normal;
+	font-style: normal
+}
+
+.fB {
+	font-weight: bold
+}
+
+.f12px {
+	font-size: 12px
+}
+
+.f14px {
+	font-size: 14px
+}
+
+.left {
+	float: left
+}
+
+.right {
+	float: right
+}
+
+.hidden {
+	display: none
+}
+
+.mt5 {
+	margin-top: 5px
+}
+
+.mt10 {
+	margin-top: 10px
+}
+
+.orange {
+	color: #ff6600
+}
+
+.red {
+	color: red
+}
+
+.green {
+	color: #09c200
+}
+
+.white {
+	color: #fff
+}
+
+.black {
+	color: #000
+}
+
+.c333,.c333 a {
+	color: #333
+}
+
+.c666,.c666 a {
+	color: #666
+}
+
+.c999,.c999 a {
+	color: #999
+}
+
+.txtCenter {
+	text-align: center
+}
+
+.txtRight {
+	text-align: center
+}
+
+.clear {
+	clear: both;
+	height: 1px;
+	overflow: hidden
+}
+
+.wrapper {
+	z-index: 100;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #000;
+	filter: alpha(opacity = 20);
+	-moz-opacity: 0.2;
+	opacity: 0.2
+}
+
+.close {
+	float: right;
+	height: 18px;
+	width: 18px;
+	background: url(cjobs_img/selector.gif) no-repeat -82px -117px;
+	cursor: pointer
+}
+
+.container {
+	min-height: 550px;
+	height: 550px;
+	min-width: 760px;
+	width: 760px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -275px 0 0 -380px;
+	z-index: 999
+}
+
+.haschose {
+	border: 1px #5d96e3 solid;
+	padding: 2px;
+	background: #bbd9ff
+}
+
+.haschose_con {
+	border: 1px #fff solid;
+	background: #c8e3f6;
+	height: 35px
+}
+
+.haschose_tit {
+	float: left;
+	margin-left: 10px;
+	color: #0160ad;
+	line-height: 35px
+}
+
+.chose_point {
+	border: 1px #ff5500 solid;
+	max-width: 90px;
+	*width: 90px;
+	padding: 2px;
+	color: #ff5500;
+	float: left;
+	background: #fff;
+	margin: 7px 5px 0 0;
+	height: 14px;
+	line-height: 15px
+}
+
+.chose_point span {
+	display: block;
+	max-width: 74px;
+	_width: 74px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap
+}
+
+.chose_point a {
+	float: left;
+	height: 13px;
+	width: 13px;
+	display: block;
+	background: url(cjobs_img/selector.gif) no-repeat 0 0;
+	margin-left: 3px
+}
+
+.chose_btn a {
+	display: inline-block;
+	width: 63px;
+	height: 23px;
+	background-image: url(cjobs_img/selector.gif);
+	margin: 5px 8px 0 0
+}
+
+.chose_btn .confirm {
+	background-position: 0 -117px
+}
+
+.chose_btn .reset {
+	background-position: 0 -140px
+}
+
+.yourchose {
+	height: 35px;
+	overflow: hidden;
+	width: 525px;
+	float: left
+}
+
+.list_box {
+	border: 1px #5d96e3 solid;
+	border-top: none;
+	background: #dbe4f0;
+	padding: 10px;
+	overflow: hidden;
+	height: 485px
+}
+
+.l_left {
+	width: 218px;
+	border: 1px #5d96e3 solid;
+	background: #c2e3f7;
+	padding: 5px;
+	float: left
+}
+
+.l_right {
+	width: 485px;
+	border: 1px #5d96e3 solid;
+	background: #c2e3f7;
+	padding: 5px;
+	float: right
+}
+
+.l_left h1,.l_right h1 {
+	height: 35px;
+	border-bottom: 1px #ccc solid;
+	background: #f1f1f1;
+	line-height: 35px;
+	padding-left: 10px
+}
+
+.l_left h1 span {
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer
+}
+
+.l_con {
+	background: #fff;
+	padding: 7px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	min-height: 424px;
+	height: 424px
+}
+
+.select_list_con ol {
+	height: 30px;
+	line-height: 30px;
+	font-weight: bold;
+	font-size: 14px
+}
+
+.select_list_con li {
+	height: 25px;
+	line-height: 25px;
+	padding-left: 15px;
+	color: #999
+}
+
+.select_list_con pre {
+	cursor: pointer
+}
+
+.select_list_con ol span {
+	display: block;
+	width: 30px;
+	height: 30px;
+	background-image: url(cjobs_img/selector.gif);
+	background-repeat: no-repeat;
+	float: left;
+	cursor: pointer
+}
+
+.select_list_con li span {
+	display: block;
+	width: 25px;
+	height: 25px;
+	background-image: url(cjobs_img/selector.gif);
+	background-repeat: no-repeat;
+	float: left;
+	margin-right: 5px
+}
+
+.b_top_open {
+	background-position: -29px -22px
+}
+
+.b_top_close {
+	background-position: 3px -22px
+}
+
+.b_center_open {
+	background-position: 3px -51px
+}
+
+.b_center_close {
+	background-position: -29px -51px
+}
+
+.b_bottom_open {
+	background-position: -29px -81px
+}
+
+.b_bottom_close {
+	background-position: 3px -81px
+}
+
+.s_center_active {
+	background-position: -75px -22px
+}
+
+.s_bottom_active {
+	background-position: -75px -53px
+}
+
+.l_right h1 span {
+	font-size: 12px
+}
+
+.l_right .ol {
+	font-weight: bold;
+	color: #006ac0;
+	line-height: 30px;
+	height: 30px;
+	width: 460px
+}
+
+.l_right .li {
+	overflow: hidden;
+	padding-left: 25px
+}
+
+.l_right .ol span {
+	margin-right: 7px;
+	float: left;
+	margin-top: 8px;
+	_margin-top: 4px;
+	margin-left: 10px;
+	display: inline
+}
+
+.l_right .li li {
+	line-height: 25px;
+	height: 25px;
+	float: left;
+	color: #999;
+	width: 142px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap
+}
+
+.l_right .li li span {
+	margin-right: 7px;
+	float: left;
+	margin-top: 5px;
+	_margin-top: 3px
+}
+
+.containerarea {
+	min-height: 550px;
+	height: 550px;
+	min-width: 820px;
+	width: 820px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -275px 0 0 -410px;
+	z-index: 999
+}
+
+.l_leftarea {
+	width: 600px;
+	float: left;
+	padding-top: 17px
+}
+
+.l_rightarea {
+	width: 200px;
+	float: right;
+	border: 1px #5d96e3 solid;
+	border-right: none;
+	background: #f2f5fb;
+	margin-top: 10px;
+	height: 485px;
+	overflow-x: hidden;
+	overflow-y: scroll
+}
+
+.list_boxarea {
+	border: 1px #5d96e3 solid;
+	border-top: none;
+	background: #dbe4f0;
+	overflow: hidden;
+	height: 510px
+}
+
+a {
+	blr: expression(this.onFocus = this.blur () )
+}
+
+area {
+	blr: expression(this.onFocus = this.blur () )
+}
+
+.l_rightarea ol {
+	background: url(cjobs_img/selector.gif) no-repeat 15px -177px;
+	line-height: 30px;
+	margin-top: 10px;
+	padding-left: 40px
+}
+
+.l_rightarea .areaol {
+	background: url(cjobs_img/selector.gif) no-repeat 38px -177px;
+	line-height: 30px;
+	margin-top: 10px;
+	padding-left: 20px
+}
+
+.areaol pre {
+	padding-top: 9px;
+	_padding-top: 5px;
+	float: left;
+	margin-right: 15px;
+	display: inline
+}
+
+.areaol input {
+	margin-right: 10px
+}
+
+.l_rightarea li {
+	background: url(cjobs_img/selector.gif) no-repeat 60px -217px;
+	float: left;
+	width: 100%
+}
+
+.l_rightarea .areali {
+	padding-left: 40px;
+	line-height: 25px;
+	width: 145px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	*width: 100%
+}
+
+.areali pre {
+	padding-top: 6px;
+	_padding-top: 3px;
+	float: left;
+	margin-right: 15px;
+	display: inline
+}
+
+.areali input {
+	margin-right: 10px
+}
+
+.areaMap {
+	background: url(../themes/default/images/selectermap.gif) no-repeat 0 0
+}
+
+.selectDiv {
+	padding-left: 10px;
+	background: url(cjobs_img/select_btn9.jpg) no-repeat 0 0;
+	height: 32px;
+	line-height: 32px;
+	cursor: pointer;
+	float: left
+}
+
+.selectDiv span {
+	display: block;
+	width: 133px;
+	padding-right: 17px;
+	background: url(cjobs_img/select_btn9.jpg) no-repeat right 0;
+	height: 32px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-size: 12px;
+	text-align: center;
+}
+/* .tj_l_con{
+	text-align: left!important;
+}
+.list_show{
+	text-align: left!important;
+} */
+body{
+	text-align:left!important;
+}

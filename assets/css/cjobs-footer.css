@@ -1,0 +1,70 @@
+
+/********/
+.footer{
+	padding-top:10px;}
+.footer-yqlj{
+	width: 1000px;
+	margin: 0 auto;
+	height:55px;
+	padding: 15px 0px;
+	background-color: #FFFFFF;
+	}
+.footer-yqlj li{
+	float:left;
+	padding-right:2px;
+	padding-left: 37px;
+	}
+.bluebg{
+	width: 1000px;
+	margin: 0 auto;
+	background:#333333;
+	height:38px;
+	padding:20px 0px 20px 0px;
+	border-bottom: 1px solid #626262;
+	}
+	.bluebg  select{
+		height: 38px!important;
+	}
+	.bluebg form{
+		text-align: left;
+	}
+.banquan{position:relative;}.banquan p{text-align:center;line-height:24px;}.banquan span{position:absolute;top:20px;left:300px;width:80px;height:70px;}.footer-left{float:left;}.footer-select{float:left;width:250px;margin-left:122px;text-align:center;}
+.bluebg > div:first-child{
+	margin-left:0px!important;
+}
+.foot-bottom{
+	width: 1000px;
+	margin: 0 auto;
+	height: 103px;
+	background-color: #333333;
+	color: #FFFFFF;
+}
+.foot-bottom > span{
+	display: inline-block;
+	float: left;
+	line-height: 50px;
+	
+}
+.foot-bottom > span > a{
+	color: #FFFFFF;
+}
+.foot-bottom-right > span > p{
+	color: #FFFFFF!important;
+}
+.foot-bottom-right{
+	float: right;
+	padding-top: 18px;
+	padding-right: 5px;
+	color: #000000!important;
+	
+}
+.foot-bottom-right > span{
+	float: left;
+}
+.foot-bottom-right > span > p{
+	text-align: right;
+}
+.main-w{
+	width: 1000px;
+	margin: 0 auto;
+}

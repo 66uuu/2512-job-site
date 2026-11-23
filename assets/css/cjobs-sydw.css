@@ -1,0 +1,96 @@
+﻿.body{
+		background: url(cjobs_img/bg.png) no-repeat center top;
+		background-color: #eef3f9;
+	}
+/*公共*/
+.nav-top{
+	height: 30px;
+	background-color: #FFFFFF;
+}
+.main-w{
+	width: 1000px;
+	margin: 0 auto;
+}
+.floatleft{
+	float: left;
+}
+.floatright{
+	float: right;
+}
+.left-search{
+	width: 622px;
+	height: 92px;
+	padding: 20px;
+}
+.margin-top10{
+	margin-top: 10px;
+}
+.weizhi{
+	display: inline-block;
+	padding-left: 14px;
+	float: left;
+	border-left: 4px solid #1384dd;
+}
+
+/**/
+
+.table-title{
+	height: 31px;
+	background-color: #f1f1f1;
+
+}
+.table-title p{
+	color: #000000;
+}
+.table-title tr > td{
+	text-align: center;
+}
+.table-title tr > td:first-child{
+	padding-left: 30px;
+	padding-right: 20px;
+	text-align: left;
+}
+.xuhao{
+	border: 1px solid #eeeeee;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+    line-height: 24px;
+}
+.zhaopin-title{
+	text-align: left!important;
+	padding-left: 10px;
+}
+.chouse-city{
+	height: 106px;
+	border: 1px solid #eeeeee;
+}
+.chouse-city-left{
+	background-color: #f3f3f3;
+	width: 60px;
+	height: 106px;
+	padding: 0px 15px;
+}
+.chouse-city-left > span{
+	display: block;
+	line-height: 40px;
+	font-weight: bolder;
+}
+.chouse-city-right{
+	width: 868px;
+	height: 106px;
+}
+.chouse-city-right > span{
+	display: inline-block;
+	width: 62px;
+	text-align: center!important;
+	line-height: 34px;
+	color: #1384dd;
+	cursor: pointer;
+}
+
+/* 修正 logo 裁切 (继承首页 header-footer.css 的 absolute 定位在此页不适用) */
+.header { position: static; }
+.zplogo { position: static; top: auto; padding-top: 18px; }
+/* 查看详情按钮宽度适配 */
+.aa_btn_3 { width: 80px; box-sizing: border-box; }

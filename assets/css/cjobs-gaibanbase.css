@@ -1,0 +1,34 @@
+/*公共*/
+.body{
+		background: url(bg.png) no-repeat center top;
+		background-color: #eef3f9;
+	}
+.nav-top{
+	height: 30px;
+	background-color: #FFFFFF;
+}
+.main-w{
+	width: 1000px;
+	margin: 0 auto;
+}
+.floatleft{
+	float: left;
+}
+.floatright{
+	float: right;
+}
+.left-search{
+	width: 622px;
+	height: 92px;
+	padding: 20px;
+}
+.margin-top10{
+	margin-top: 10px;
+}
+.weizhi{
+	display: inline-block;
+	padding-left: 14px;
+	float: left;
+	border-left: 4px solid #1384dd;
+}
+/**/

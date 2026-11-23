@@ -1,0 +1,10 @@
+﻿
+
+/* 日历牌 */
+.tag_select{display:block;color:#000;width:126px;height:23px;padding-left:10px;line-height:23px;margin-top:4px; color:#7D7D7D; font-size:12px; cursor:pointer}
+.tag_select_hover{ color:#0670c0; background:transparent url("/r/cms/www/default/gaiban/indexpng.png") no-repeat left -707px; }
+.tag_select_open{ color:#0670c0; background:transparent url("/r/cms/www/default/gaiban/indexpng.png") no-repeat left -707px; }
+ul.tag_options{position:absolute;margin:0;list-style:none;background:#F4F8FF;padding:0 0 1px;margin:0;width:262px ; height:220px; overflow:hidden; overflow-y:auto; font-size:12px; margin-left:10px; cursor:pointer; z-index:1000 }
+ul.tag_options li{background:#F4F8FF; float:left;display:block;width:150px;padding:0 10px;height:20px;text-decoration:none;line-height:20px;color:#000; font-weight:normal; font-size:12px}
+ul.tag_options li.open_hover{color:#000; font-weight:normal; font-size:13px}
+ul.tag_options li.open_selected{background:#F4F8FF; font-size:12px;font-weight:bold; }

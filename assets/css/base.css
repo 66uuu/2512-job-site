@@ -1,0 +1,193 @@
+@charset "utf-8";
+html {
+	color:#333;
+	font-size:12px;
+	-webkit-text-size-adjust:100%;
+	-ms-text-size-adjust:100%
+}
+body {
+	color:#333;
+	font-size:12px;
+	/*font-family:"Microsoft Yahei","Helvetica Neue",Helvetica,Arial,Tahoma,sans-serif;*/
+        font-family:sans-serif;
+	height:auto;
+	position:relative
+}
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,hr,button,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+	margin:0;
+	padding:0
+}
+
+ol,ul,li {
+	list-style:none
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size:100%;
+	font-weight:500;
+	line-height:inherit
+}
+sub,sup {
+	font-size:75%;
+	line-height:0;
+	position:relative;
+	vertical-align:baseline
+}
+sup {
+	top:-0.5em
+}
+sub {
+	bottom:-0.25em
+}
+a {
+	color:#333;
+	cursor:pointer;
+}
+a:hover {
+	color:#1c75ba;
+	text-decoration:underline
+}
+a:hover,a:active {
+	outline:0
+}
+a:visiteds {
+	text-decoration:none
+}
+a:focus {
+	outline:0;
+	text-decoration:none
+}
+ins,a {
+	text-decoration:none
+}
+img {
+	width:auto\9;
+	height:auto;
+	max-width:100%;
+	max-height:100%;
+	vertical-align:middle;
+	border:0;
+	-ms-interpolation-mode:bicubic
+}
+i {
+	font-style:normal
+}
+.clear {
+	visibility:hidden;
+	display:block;
+	font-size:0;
+	clear:both;
+	height:0
+}
+
+hr {
+	margin:20px 0;
+	border:0;
+	border-top:1px solid #eee;
+	border-bottom:1px solid #fff
+}
+
+.font12 {
+	font-size:12px
+}
+.font14 {
+	font-size:14px
+}
+.font16 {
+	font-size:16px
+}
+.font18 {
+	font-size:18px
+}
+.font24 {
+	font-size:24px
+}
+.alignleft {
+	text-align:left
+}
+.alignright {
+	text-align:right
+}
+.aligncenter {
+	text-align:center
+}
+.txtindent1em {
+	text-indent:1em
+}
+.txtindent {
+	text-indent:2em
+}
+.b {
+	font-weight:700
+}
+.nowrap {
+	white-space:nowrap
+}
+.white {
+	color:#fff
+}
+.red,a.red {
+	color:#d91c1c
+}
+.green,a.green {
+	color:#3bae94
+}
+a.green:hover {
+	color:#4d896d
+}
+.lightgreen {
+	color:#1abc9c
+}
+.blue,a.blue {
+	color:#06347a
+}
+a.blue:hover {
+	color:#5180b7
+}
+.gray,a.gray {
+	color:#999
+}
+.black{
+	color:#1c3e67;}
+.lightgray {
+	color:#d0d0d0
+}
+.blackgray{
+	color:#666;}
+.lightblue {
+	color:#24a4e0
+}
+.orange,a.orange {
+	color:#f39c11
+}
+a.orange:hover {
+	color:#d79323
+}
+.bgwhite {
+	background:#fff
+}
+.floatleft {
+	float:left
+}
+.floatright {
+	float:right
+}
+.grayborder {
+	border:1px solid #e5e5e5
+}
+.pdlr8 {
+	padding:0 8px
+}
+.pdlr4 {
+	padding:0 4px
+}
+.spacer10 {
+	height:10px
+}
+.spacer4 {
+	height:4px
+}
+
+table{
+table-layout: fixed;
+}
